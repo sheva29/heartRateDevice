@@ -9,8 +9,8 @@
 SoftwareSerial wifiSerial(8,9);
 WiFly wifly;
 
-const char mySSID[] =  "internetz"; //"SBG658060"; 
-const char myPassword[] =  "1nt3rn3tz";//"SBG6580E58E60";  
+const char mySSID[] =  "belkin.548";//"internetz"; //"SBG658060"; 
+const char myPassword[] = "6efa862f"; //"1nt3rn3tz";//"SBG6580E58E60";  
 char site[] = "api.cosm.com";
 char feedId[] = "104810"; //FEED ID
 char cosmKey[] = "ewTCG0qri8i6jXsXxwXxnrAZpnKSAKxHL0tnbndNeEpPdz0g";
